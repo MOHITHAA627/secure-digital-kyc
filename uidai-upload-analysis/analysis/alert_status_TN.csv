@@ -1,0 +1,7 @@
+state,district,month,enrolment_total,biometric_total,demographic_total,Total_Upload,Alert_Status
+Tamil Nadu,Chennai,2025-06,1556,25689,1566,28811,NORMAL
+Tamil Nadu,Chennai,2025-09,3156,36063,24425,63644,NORMAL
+Tamil Nadu,Chennai,2025-10,1943,36867,16835,55645,NORMAL
+Tamil Nadu,Chennai,2025-11,2952,43679,42923,89554,NORMAL
+Tamil Nadu,Chennai,2025-12,1751,35707,41328,78786,NORMAL
+Tamil Nadu,Chennai,2026-01,659,3746,2864,7269,NORMAL

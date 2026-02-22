@@ -1,0 +1,7 @@
+state,district,month,enrolment_total,biometric_total,demographic_total,Total_Upload,sensitive_heavy
+Andhra Pradesh,Tirupati,2025-06-01,268,4769,2735,7772,False
+Andhra Pradesh,Tirupati,2025-09-01,617,2737,3179,6533,False
+Andhra Pradesh,Tirupati,2025-10-01,224,3107,2521,5852,False
+Andhra Pradesh,Tirupati,2025-11-01,511,3446,5800,9757,False
+Andhra Pradesh,Tirupati,2025-12-01,364,2881,7226,10471,False
+Andhra Pradesh,Tirupati,2026-01-01,51,114,335,500,False

@@ -1,0 +1,10 @@
+state,district,month,enrolment_total,biometric_total,demographic_total,Total_Upload,is_heavy
+Maharashtra,Mumbai Suburban,2025-04-01,542,22481,9610,32633,False
+Maharashtra,Mumbai Suburban,2025-05-01,1569,29482,6818,37869,False
+Maharashtra,Mumbai Suburban,2025-06-01,1477,20139,7936,29552,False
+Maharashtra,Mumbai Suburban,2025-07-01,5571,22794,15520,43885,False
+Maharashtra,Mumbai Suburban,2025-09-01,3157,31706,17443,52306,False
+Maharashtra,Mumbai Suburban,2025-10-01,1964,29078,14475,45517,False
+Maharashtra,Mumbai Suburban,2025-11-01,3286,36426,35687,75399,False
+Maharashtra,Mumbai Suburban,2025-12-01,2038,33209,38821,74068,False
+Maharashtra,Mumbai Suburban,2026-01-01,644,4905,2630,8179,False
